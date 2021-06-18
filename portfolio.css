@@ -110,7 +110,7 @@ body {
 
 #about {
     margin-top: 60px;
-    background: url('images/home.jpg') center no-repeat;
+    background: url('./Images/home.jpg') center no-repeat;
     background-size: cover;
     height: 40rem;
 }
